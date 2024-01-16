@@ -8,7 +8,7 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.NadaAlshaibnai.androidrecycleview.Currency;
+import com.NadaAlshaibnai.androidrecycleview.data.Currency;
 import com.NadaAlshaibnai.androidrecycleview.R;
 
 import java.util.ArrayList;

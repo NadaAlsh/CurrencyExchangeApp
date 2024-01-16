@@ -1,4 +1,4 @@
-package com.NadaAlshaibnai.androidrecycleview;
+package com.NadaAlshaibnai.androidrecycleview.data;
 
 import java.util.ArrayList;
 
